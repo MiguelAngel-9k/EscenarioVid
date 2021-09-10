@@ -1272,3 +1272,445 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.10-18.55.18:843][365]LogFileHelpers: Saving map 'Ghasm' took 0.130
 [2021.09.10-18.55.18:850][365]AssetCheck: New page: Asset Save: Ghasm
 [2021.09.10-18.55.18:850][365]LogContentValidation: Display: Validating World /Game/Ghasm.Ghasm
+[2021.09.10-18.56.14:077][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.09.10-18.56.16:301][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (IzqOficina)
+[2021.09.10-18.56.18:079][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (IzqCapilla)
+[2021.09.10-18.56.27:653][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DerComedor)
+[2021.09.10-18.57.00:847][747]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.09.10-18.57.50:211][559]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2021.09.10-18.58.19:768][ 43]LogEditorViewport: Clicking on Actor (LMB): Brush (Linear Stair Brush5)
+[2021.09.10-18.58.21:376][233]LogEditorViewport: Clicking on Actor (LMB): Brush (Linear Stair Brush4)
+[2021.09.10-18.58.22:603][377]LogEditorViewport: Clicking on Actor (LMB): Brush (Linear Stair Brush2)
+[2021.09.10-18.58.25:386][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteComedor)
+[2021.09.10-18.58.27:163][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteComedor2)
+[2021.09.10-18.58.30:436][303]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2021.09.10-18.59.07:768][761]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2021.09.10-18.59.50:743][870]LogEditorViewport: Clicking on Actor (LMB): Brush (IzqCuartos)
+[2021.09.10-18.59.52:334][ 57]Cmd: DELETE
+[2021.09.10-18.59.52:334][ 57]Cmd: ACTOR DELETE
+[2021.09.10-18.59.52:336][ 57]LogEditorActor: Deleted Actor: Brush
+[2021.09.10-18.59.52:342][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.09.10-18.59.52:358][ 57]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2021.09.10-18.59.54:963][359]LogActorFactory: Actor Factory created Cube
+[2021.09.10-18.59.55:210][387]LogActorFactory: Actor Factory created Cube
+[2021.09.10-18.59.55:490][419]LogActorFactory: Actor Factory created Cube
+[2021.09.10-18.59.56:997][594]LogActorFactory: Actor Factory created Cube
+[2021.09.10-19.00.01:524][116]LogEditorViewport: Clicking Background
+[2021.09.10-19.00.02:129][188]LogEditorViewport: Clicking Background
+[2021.09.10-19.00.05:574][591]Cmd: TRANSACTION UNDO
+[2021.09.10-19.00.05:574][591]LogEditorTransaction: Undo Move Actors
+[2021.09.10-19.01.45:269][551]LogActorFactory: Actor Factory created Cube
+[2021.09.10-19.01.46:533][694]LogActorFactory: Actor Factory created Cube
+[2021.09.10-19.01.56:985][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.09.10-19.02.07:871][185]Cmd: TRANSACTION UNDO
+[2021.09.10-19.02.07:871][185]LogEditorTransaction: Undo Move Actors
+[2021.09.10-19.03.18:969][149]Cmd: EDIT COPY
+[2021.09.10-19.03.19:220][179]Cmd: EDIT PASTE
+[2021.09.10-19.03.25:307][844]Cmd: EDIT COPY
+[2021.09.10-19.03.25:613][872]Cmd: EDIT PASTE
+[2021.09.10-19.03.31:559][563]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteCuartos)
+[2021.09.10-19.03.50:595][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteCuartos2)
+[2021.09.10-19.03.57:032][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteCuartos3)
+[2021.09.10-19.04.08:901][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteCuartos2)
+[2021.09.10-19.04.11:810][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteCuartos)
+[2021.09.10-19.04.13:770][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.09.10-19.04.15:237][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteCuartos3)
+[2021.09.10-19.04.17:319][284]LogEditorViewport: Clicking Background
+[2021.09.10-19.04.51:562][302]Cmd: EDIT COPY
+[2021.09.10-19.04.51:795][330]Cmd: EDIT PASTE
+[2021.09.10-19.05.06:923][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteCuartos2)
+[2021.09.10-19.05.09:194][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteCuartos3)
+[2021.09.10-19.05.10:469][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteCuartos4)
+[2021.09.10-19.05.13:923][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteCuartos3)
+[2021.09.10-19.05.16:197][ 79]LogEditorViewport: Clicking Background
+[2021.09.10-19.05.17:279][208]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.09.10-19.05.17:748][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteCuartos2)
+[2021.09.10-19.05.19:291][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteCuartos)
+[2021.09.10-19.05.21:745][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteCuartos2)
+[2021.09.10-19.05.23:900][959]LogEditorViewport: Clicking Background
+[2021.09.10-19.05.24:831][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.09.10-19.05.25:376][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteCuartos2)
+[2021.09.10-19.05.27:638][392]LogEditorViewport: Clicking Background
+[2021.09.10-19.05.28:910][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteCuartos2)
+[2021.09.10-19.05.30:773][758]LogEditorViewport: Clicking Background
+[2021.09.10-19.05.31:778][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.09.10-19.05.32:270][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteCuartos2)
+[2021.09.10-19.05.34:817][226]LogEditorViewport: Clicking Background
+[2021.09.10-19.05.39:397][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteCuartos3)
+[2021.09.10-19.05.49:555][934]Cmd: TRANSACTION UNDO
+[2021.09.10-19.05.49:555][934]LogEditorTransaction: Undo Move Actors
+[2021.09.10-19.05.51:194][ 83]LogEditorViewport: Clicking Background
+[2021.09.10-19.06.04:555][657]Cmd: DELETE
+[2021.09.10-19.06.04:555][657]Cmd: ACTOR DELETE
+[2021.09.10-19.06.04:562][657]LogEditorActor: Deleted Actor: Actor
+[2021.09.10-19.06.04:567][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.09.10-19.06.04:571][657]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.09.10-19.06.05:648][779]LogActorFactory: Actor Factory created Cube
+[2021.09.10-19.06.06:428][871]LogActorFactory: Actor Factory created Cube
+[2021.09.10-19.06.31:512][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DivisorOficina)
+[2021.09.10-19.06.43:852][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.09.10-19.07.02:404][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteCuartos4)
+[2021.09.10-19.07.07:493][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.09.10-19.07.08:575][747]Cmd: EDIT COPY
+[2021.09.10-19.07.08:817][776]Cmd: EDIT PASTE
+[2021.09.10-19.07.15:209][509]LogEditorViewport: Clicking Background
+[2021.09.10-19.07.17:175][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.09.10-19.07.17:820][815]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteCuartos2)
+[2021.09.10-19.07.20:236][ 95]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteCuartos3)
+[2021.09.10-19.07.24:635][599]LogEditorViewport: Clicking Background
+[2021.09.10-19.07.28:708][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteCuartos2)
+[2021.09.10-19.07.32:897][496]Cmd: TRANSACTION UNDO
+[2021.09.10-19.07.32:897][496]LogEditorTransaction: Undo Set Scale
+[2021.09.10-19.07.37:455][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.09.10-19.07.48:733][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.09.10-19.07.49:655][397]Cmd: EDIT COPY
+[2021.09.10-19.07.49:965][434]Cmd: EDIT PASTE
+[2021.09.10-19.08.04:898][919]Cmd: EDIT COPY
+[2021.09.10-19.08.05:174][952]Cmd: EDIT PASTE
+[2021.09.10-19.08.08:162][296]Cmd: EDIT COPY
+[2021.09.10-19.08.08:355][319]Cmd: EDIT PASTE
+[2021.09.10-19.08.12:934][847]LogEditorViewport: Clicking Background
+[2021.09.10-19.08.15:223][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2021.09.10-19.08.16:074][218]Cmd: EDIT COPY
+[2021.09.10-19.08.16:308][246]Cmd: EDIT PASTE
+[2021.09.10-19.08.19:515][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.09.10-19.08.23:159][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2021.09.10-19.08.24:761][236]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube6)
+[2021.09.10-19.08.26:234][408]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube4)
+[2021.09.10-19.08.35:703][469]Cmd: TRANSACTION UNDO
+[2021.09.10-19.08.35:703][469]LogEditorTransaction: Undo Move Actors
+[2021.09.10-19.08.36:719][543]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor3)
+[2021.09.10-19.08.38:885][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2021.09.10-19.08.40:128][937]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube4)
+[2021.09.10-19.08.41:560][104]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube6)
+[2021.09.10-19.08.42:724][239]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube7)
+[2021.09.10-19.08.48:971][961]LogEditorViewport: Clicking Background
+[2021.09.10-19.08.55:860][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteCuartos)
+[2021.09.10-19.09.08:585][ 66]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2021.09.10-19.09.09:375][156]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteCuartos)
+[2021.09.10-19.09.20:164][446]LogEditorViewport: Clicking Background
+[2021.09.10-19.09.21:436][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteCuartos)
+[2021.09.10-19.09.25:119][970]Cmd: TRANSACTION UNDO
+[2021.09.10-19.09.25:119][970]LogEditorTransaction: Undo Set Scale
+[2021.09.10-19.09.31:419][603]LogEditorViewport: Clicking Background
+[2021.09.10-19.09.32:649][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2021.09.10-19.09.35:172][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2021.09.10-19.09.40:593][688]Cmd: DELETE
+[2021.09.10-19.09.40:594][688]Cmd: ACTOR DELETE
+[2021.09.10-19.09.40:599][688]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.10-19.09.40:604][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.09.10-19.09.40:607][688]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.09.10-19.09.47:558][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2021.09.10-19.09.48:063][578]Cmd: DELETE
+[2021.09.10-19.09.48:063][578]Cmd: ACTOR DELETE
+[2021.09.10-19.09.48:068][578]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.10-19.09.48:073][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.09.10-19.09.48:074][578]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.09.10-19.10.53:779][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteCuartos4)
+[2021.09.10-19.10.55:562][560]Cmd: EDIT COPY
+[2021.09.10-19.10.56:102][624]Cmd: EDIT PASTE
+[2021.09.10-19.11.16:881][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2021.09.10-19.11.17:620][414]Cmd: EDIT COPY
+[2021.09.10-19.11.17:888][446]Cmd: EDIT PASTE
+[2021.09.10-19.11.27:150][437]Cmd: TRANSACTION UNDO
+[2021.09.10-19.11.27:150][437]LogEditorTransaction: Undo Set Location
+[2021.09.10-19.11.36:132][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2021.09.10-19.11.40:561][908]LogEditorViewport: Clicking Background
+[2021.09.10-19.11.42:342][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2021.09.10-19.11.52:518][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.09.10-19.11.54:043][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2021.09.10-19.12.04:157][542]LogEditorViewport: Clicking Background
+[2021.09.10-19.12.06:296][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2021.09.10-19.12.11:780][382]LogEditorViewport: Clicking Background
+[2021.09.10-19.12.15:617][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2021.09.10-19.12.16:396][695]Cmd: EDIT COPY
+[2021.09.10-19.12.16:606][720]Cmd: EDIT PASTE
+[2021.09.10-19.12.20:313][144]LogEditorViewport: Clicking Background
+[2021.09.10-19.12.24:614][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.09.10-19.12.29:056][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteCuartos5)
+[2021.09.10-19.12.42:269][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2021.09.10-19.12.43:265][357]Cmd: EDIT COPY
+[2021.09.10-19.12.43:492][384]Cmd: EDIT PASTE
+[2021.09.10-19.13.03:539][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TraeroPasillo)
+[2021.09.10-19.13.07:538][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2021.09.10-19.13.25:836][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2021.09.10-19.13.27:736][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2021.09.10-19.13.34:846][ 48]LogEditorViewport: Clicking Background
+[2021.09.10-19.13.36:587][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteCuartos5)
+[2021.09.10-19.13.39:644][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2021.09.10-19.14.11:711][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.09.10-19.14.18:188][835]LogEditorViewport: Clicking Background
+[2021.09.10-19.14.18:517][874]Cmd: TRANSACTION UNDO
+[2021.09.10-19.14.18:517][874]LogEditorTransaction: Undo Clicking Background
+[2021.09.10-19.14.19:872][988]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2021.09.10-19.14.25:907][624]LogEditorViewport: Clicking Background
+[2021.09.10-19.14.27:295][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteCuartos5)
+[2021.09.10-19.14.32:440][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2021.09.10-19.14.33:219][472]Cmd: EDIT COPY
+[2021.09.10-19.14.33:486][504]Cmd: EDIT PASTE
+[2021.09.10-19.14.44:635][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrenteCuartos5)
+[2021.09.10-19.14.51:680][538]Cmd: TRANSACTION UNDO
+[2021.09.10-19.14.51:680][538]LogEditorTransaction: Undo Set Scale
+[2021.09.10-19.15.15:155][950]Cmd: EDIT COPY
+[2021.09.10-19.15.15:464][987]Cmd: EDIT PASTE
+[2021.09.10-19.15.20:460][556]LogEditorViewport: Clicking Background
+[2021.09.10-19.15.43:455][307]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2021.09.10-19.15.44:412][417]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FrenteCuartos5)
+[2021.09.10-19.15.46:799][697]Cmd: TRANSACTION UNDO
+[2021.09.10-19.15.46:799][697]LogEditorTransaction: Undo Move Actors
+[2021.09.10-19.15.47:774][766]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube10)
+[2021.09.10-19.15.48:991][907]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube11)
+[2021.09.10-19.15.49:803][999]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FrenteCuartos6)
+[2021.09.10-19.15.50:903][126]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube9)
+[2021.09.10-19.16.19:337][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.09.10-19.16.22:672][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.09.10-19.16.27:102][759]LogEditorViewport: Clicking Background
+[2021.09.10-19.16.46:061][586]Cmd: DUPLICATE
+[2021.09.10-19.16.46:061][586]Cmd: ACTOR DUPLICATE
+[2021.09.10-19.17.00:741][240]LogEditorViewport: Clicking Background
+[2021.09.10-19.17.01:405][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (IzqBaños3)
+[2021.09.10-19.17.02:728][473]Cmd: DELETE
+[2021.09.10-19.17.02:728][473]Cmd: ACTOR DELETE
+[2021.09.10-19.17.02:734][473]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.10-19.17.02:739][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.09.10-19.17.02:743][473]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.09.10-19.17.08:047][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TraseroBaños2)
+[2021.09.10-19.17.09:227][ 88]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (IzqBaños4)
+[2021.09.10-19.17.10:423][227]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (DivisorBaños2)
+[2021.09.10-19.17.14:763][721]LogEditorViewport: Clicking Background
+[2021.09.10-19.17.15:543][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DerLavado3)
+[2021.09.10-19.17.16:748][954]Cmd: DELETE
+[2021.09.10-19.17.16:748][954]Cmd: ACTOR DELETE
+[2021.09.10-19.17.16:754][954]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.10-19.17.16:758][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.10-19.17.16:759][954]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.09.10-19.17.19:554][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TraseroBaños2)
+[2021.09.10-19.17.22:300][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TraseroLavado)
+[2021.09.10-19.17.25:362][968]Cmd: EDIT COPY
+[2021.09.10-19.17.25:688][  7]Cmd: EDIT PASTE
+[2021.09.10-19.17.40:115][672]LogEditorViewport: Clicking Background
+[2021.09.10-19.17.41:637][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (IzqBaños4)
+[2021.09.10-19.17.45:862][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.09.10-19.17.47:464][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TraseroLavado2)
+[2021.09.10-19.17.50:138][843]LogEditorViewport: Clicking Background
+[2021.09.10-19.17.52:309][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (IzqBaños4)
+[2021.09.10-19.17.55:074][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TraseroLavado2)
+[2021.09.10-19.17.57:081][656]LogEditorViewport: Clicking Background
+[2021.09.10-19.18.03:000][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TraseroLavado2)
+[2021.09.10-19.18.09:400][111]LogEditorViewport: Clicking Background
+[2021.09.10-19.18.15:955][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TraseroBaños2)
+[2021.09.10-19.18.17:015][ 10]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (DivisorBaños2)
+[2021.09.10-19.18.17:582][ 73]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TraseroLavado2)
+[2021.09.10-19.18.18:502][179]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (IzqBaños4)
+[2021.09.10-19.18.23:780][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TraseroLavado2)
+[2021.09.10-19.18.33:924][847]Cmd: TRANSACTION UNDO
+[2021.09.10-19.18.33:924][847]LogEditorTransaction: Undo Move Actors
+[2021.09.10-19.18.34:789][905]LogEditorViewport: Clicking Background
+[2021.09.10-19.18.35:819][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TraseroLavado2)
+[2021.09.10-19.18.40:874][546]Cmd: DELETE
+[2021.09.10-19.18.40:874][546]Cmd: ACTOR DELETE
+[2021.09.10-19.18.40:880][546]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.10-19.18.40:884][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.09.10-19.18.40:888][546]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.09.10-19.18.43:494][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.09.10-19.18.44:205][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TraseroBaños2)
+[2021.09.10-19.18.45:014][ 30]Cmd: EDIT COPY
+[2021.09.10-19.18.45:207][ 53]Cmd: EDIT PASTE
+[2021.09.10-19.18.48:520][435]LogEditorViewport: Clicking Background
+[2021.09.10-19.19.08:417][642]LogActorFactory: Actor Factory created Cube
+[2021.09.10-19.19.09:735][797]LogActorFactory: Actor Factory created Cube
+[2021.09.10-19.19.27:342][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Trasero)
+[2021.09.10-19.19.34:105][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2021.09.10-19.19.37:434][982]Cmd: DELETE
+[2021.09.10-19.19.37:434][982]Cmd: ACTOR DELETE
+[2021.09.10-19.19.37:440][982]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.10-19.19.37:445][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.09.10-19.19.37:448][982]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.09.10-19.19.40:010][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.09.10-19.19.49:257][349]LogEditorViewport: Clicking Background
+[2021.09.10-19.19.51:402][604]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TraseroBaños2)
+[2021.09.10-19.19.55:077][ 32]Cmd: EDIT COPY
+[2021.09.10-19.19.55:366][ 66]Cmd: EDIT PASTE
+[2021.09.10-19.20.19:780][788]Cmd: EDIT COPY
+[2021.09.10-19.20.20:439][867]Cmd: EDIT PASTE
+[2021.09.10-19.20.36:418][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (IzqLab)
+[2021.09.10-19.20.51:641][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (IzqBaños4)
+[2021.09.10-19.21.09:357][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TraseroBaños5)
+[2021.09.10-19.21.15:674][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (IzqBaños4)
+[2021.09.10-19.21.16:420][ 72]Cmd: EDIT COPY
+[2021.09.10-19.21.16:654][100]Cmd: EDIT PASTE
+[2021.09.10-19.21.19:930][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.09.10-19.21.26:069][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (IzqBaños4)
+[2021.09.10-19.21.26:945][291]Cmd: EDIT COPY
+[2021.09.10-19.21.27:188][320]Cmd: EDIT PASTE
+[2021.09.10-19.21.31:222][782]Cmd: EDIT COPY
+[2021.09.10-19.21.31:498][815]Cmd: EDIT PASTE
+[2021.09.10-19.21.35:046][217]LogEditorViewport: Clicking Background
+[2021.09.10-19.21.38:894][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TraseroBaños4)
+[2021.09.10-19.21.58:825][183]Cmd: EDIT COPY
+[2021.09.10-19.21.59:185][226]Cmd: EDIT PASTE
+[2021.09.10-19.22.02:591][619]Cmd: EDIT PASTE
+[2021.09.10-19.22.05:407][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TraseroBaños4)
+[2021.09.10-19.22.32:279][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TraseroBaños6)
+[2021.09.10-19.22.39:770][441]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TraseroBaños7)
+[2021.09.10-19.22.50:846][649]LogEditorViewport: Clicking Background
+[2021.09.10-19.22.52:342][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (IzqBaños4)
+[2021.09.10-19.22.53:668][982]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TraseroBaños4)
+[2021.09.10-19.22.54:500][ 77]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (IzqBaños6)
+[2021.09.10-19.22.55:587][203]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TraseroBaños5)
+[2021.09.10-19.22.56:492][307]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (IzqBaños7)
+[2021.09.10-19.22.57:579][433]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (IzqBaños5)
+[2021.09.10-19.22.58:708][564]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TraseroBaños7)
+[2021.09.10-19.22.59:646][672]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TraseroBaños6)
+[2021.09.10-19.23.16:643][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (IzqBaños4)
+[2021.09.10-19.23.17:520][788]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TraseroBaños4)
+[2021.09.10-19.23.18:373][886]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (IzqBaños6)
+[2021.09.10-19.23.19:652][ 35]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TraseroBaños5)
+[2021.09.10-19.23.21:666][270]Cmd: TRANSACTION UNDO
+[2021.09.10-19.23.21:666][270]LogEditorTransaction: Undo Move Actors
+[2021.09.10-19.23.23:202][405]Cmd: TRANSACTION UNDO
+[2021.09.10-19.23.23:202][405]LogEditorTransaction: Undo Move Actors
+[2021.09.10-19.23.23:912][488]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TraseroBaños6)
+[2021.09.10-19.23.24:809][591]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (IzqBaños7)
+[2021.09.10-19.23.26:847][821]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TraseroBaños7)
+[2021.09.10-19.23.28:659][ 34]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (IzqBaños5)
+[2021.09.10-19.23.58:414][492]Cmd: DUPLICATE
+[2021.09.10-19.23.58:414][492]Cmd: ACTOR DUPLICATE
+[2021.09.10-19.24.18:119][745]LogEditorViewport: Clicking Background
+[2021.09.10-19.24.19:894][957]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TraseroBaños8)
+[2021.09.10-19.24.23:911][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TraseroBaños10)
+[2021.09.10-19.24.30:904][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TraseroBaños11)
+[2021.09.10-19.24.49:146][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TraseroBaños9)
+[2021.09.10-19.24.58:318][375]LogEditorViewport: Clicking Background
+[2021.09.10-19.26.01:237][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.09.10-19.26.01:241][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ghasm" FILE="../../../../Proyectos/EscenarioVid/Saved/Autosaves/Game/Ghasm_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.09.10-19.26.01:282][878]LogSavePackage: Moving '../../../../Proyectos/EscenarioVid/Saved/Ghasm_Auto1C089C7AD43146584CA0E56AF906607E2.tmp' to '../../../../Proyectos/EscenarioVid/Saved/Autosaves/Game/Ghasm_Auto1.umap'
+[2021.09.10-19.26.01:283][878]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Ghasm' took 0.054
+[2021.09.10-19.26.01:283][878]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.054
+[2021.09.10-19.26.28:000][ 77]MapCheck: New page: Map Check
+[2021.09.10-19.26.28:019][ 77]Cmd: MAP REBUILD ALLVISIBLE
+[2021.09.10-19.26.28:025][ 77]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.09.10-19.26.28:128][ 77]LogWorld: UWorld::CleanupWorld for Ghasm, bSessionEnded=true, bCleanupResources=false
+[2021.09.10-19.26.28:157][ 77]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.09.10-19.26.28:157][ 77]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.09.10-19.26.28:157][ 77]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.09.10-19.26.28:165][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.09.10-19.26.28:180][ 77]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.09.10-19.26.28:187][ 77]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.09.10-19.26.28:190][ 77]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.09.10-19.26.29:664][ 77]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.09.10-19.26.29:664][ 77]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.09.10-19.26.29:664][ 77]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.09.10-19.26.29:664][ 77]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.09.10-19.26.29:664][ 77]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.09.10-19.26.29:664][ 77]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.09.10-19.26.29:664][ 77]TextureStreamingBuild: Display: Compiling optional shaders took 1.496 seconds.
+[2021.09.10-19.26.29:681][ 77]LogLevel: Display: Export Material TexCoord Scales took 0.016 seconds.
+[2021.09.10-19.26.29:682][ 77]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2021.09.10-19.26.29:687][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.10-19.26.29:731][ 77]LightingResults: New page: Lighting Build - Sep 10, 2021, 9:26:29 AM
+[2021.09.10-19.26.29:888][ 77]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.09.10-19.26.30:289][ 77]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.09.10-19.26.30:307][ 77]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.09.10-19.26.32:361][ 77]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.09.10-19.26.32:361][ 77]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1160
+[2021.09.10-19.26.35:135][ 77]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2021.09.10-19.26.35:135][ 77]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.09.10-19.26.35:135][ 77]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.09.10-19.26.35:135][ 77]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.09.10-19.26.35:135][ 77]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.09.10-19.26.35:135][ 77]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.09.10-19.26.35:367][ 77]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.09.10-19.26.35:367][ 77]MapCheck: New page: Ghasm - Sep 10, 2021, 9:26:35 AM
+[2021.09.10-19.26.35:367][ 77]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2021.09.10-19.26.35:380][ 77]MapCheck: Warning: Floor Floor is in the same location as Floor2 
+[2021.09.10-19.26.35:385][ 77]MapCheck: Warning: Trasero Trasero is in the same location as Trasero2 
+[2021.09.10-19.26.35:385][ 77]MapCheck: Warning: Trasero2 Trasero2 is in the same location as Trasero 
+[2021.09.10-19.26.35:385][ 77]MapCheck: Warning: FrenteLab2 FrenteLab2 is in the same location as TraseroLab2 
+[2021.09.10-19.26.35:385][ 77]MapCheck: Warning: TraseroLab2 TraseroLab2 is in the same location as FrenteLab2 
+[2021.09.10-19.26.35:385][ 77]MapCheck: Warning: Floor2 Floor2 is in the same location as Floor 
+[2021.09.10-19.26.35:385][ 77]MapCheck: Map check complete: 1 Error(s), 6 Warning(s), took 18.516ms to complete.
+[2021.09.10-19.26.35:387][ 77]LogEditorBuildUtils: Build time 0:07
+[2021.09.10-19.26.35:454][ 77]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicTemplateMaterial, compiling. 
+[2021.09.10-19.26.35:467][ 77]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicTemplateMaterial, compiling. 
+[2021.09.10-19.26.35:634][ 77]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.09.10-19.26.35:634][ 77]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.09.10-19.26.35:634][ 77]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.09.10-19.26.35:634][ 77]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.09.10-19.26.35:634][ 77]LogSlate: Took 0.024042 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.10-19.26.35:780][ 79]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2021.09.10-19.26.35:783][ 79]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.09.10-19.26.35:783][ 79]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.09.10-19.26.35:783][ 79]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2021.09.10-19.26.36:321][ 79]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.09.10-19.26.36:321][ 79]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.09.10-19.26.36:432][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.10-19.26.45:782][851]Job is a success!
+[2021.09.10-19.26.46:264][852]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.308s
+[2021.09.10-19.26.46:264][852]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2021.09.10-19.26.46:264][852]LogVolumetricLightmapImport:      BrickData (all levels) 7.9Mb (trimmed 1.0Mb due to 0.010000 MinBrickError)
+[2021.09.10-19.26.46:264][852]LogVolumetricLightmapImport:      Bricks at depth
+[2021.09.10-19.26.46:264][852]LogVolumetricLightmapImport:          0: 0.5% covering 100.0% of volume
+[2021.09.10-19.26.46:264][852]LogVolumetricLightmapImport:          1: 12.4% covering 37.3% of volume
+[2021.09.10-19.26.46:264][852]LogVolumetricLightmapImport:          2: 87.1% covering 4.1% of volume
+[2021.09.10-19.26.46:264][852]LogVolumetricLightmapImport:      Bricks in each level
+[2021.09.10-19.26.46:264][852]LogVolumetricLightmapImport:          Ghasm 			 1543 bricks 	 100.0% (Persistent Level)
+[2021.09.10-19.26.46:726][852]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2021.09.10-19.26.46:726][852]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2021.09.10-19.26.46:726][852]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2021.09.10-19.26.46:726][852]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2021.09.10-19.26.46:726][852]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2021.09.10-19.26.46:726][852]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2021.09.10-19.26.46:726][852]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2021.09.10-19.26.46:726][852]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2021.09.10-19.26.46:726][852]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 512X512)
+[2021.09.10-19.26.46:726][852]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 512X512)
+[2021.09.10-19.26.46:726][852]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 512X512)
+[2021.09.10-19.26.46:726][852]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 512X512)
+[2021.09.10-19.26.46:726][852]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 512X512)
+[2021.09.10-19.26.46:726][852]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 512X512)
+[2021.09.10-19.26.46:726][852]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 256X256)
+[2021.09.10-19.26.46:726][852]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 256X256)
+[2021.09.10-19.26.46:726][852]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 512X512)
+[2021.09.10-19.26.46:726][852]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 512X512)
+[2021.09.10-19.26.46:726][852]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 256X256)
+[2021.09.10-19.26.46:726][852]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 256X256)
+[2021.09.10-19.26.46:726][852]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 128X128)
+[2021.09.10-19.26.46:726][852]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 128X128)
+[2021.09.10-19.26.46:726][852]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 64X64)
+[2021.09.10-19.26.46:726][852]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 64X64)
+[2021.09.10-19.26.46:893][852]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 64X64)
+[2021.09.10-19.26.46:893][852]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 32X32)
+[2021.09.10-19.26.46:893][852]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 256X64)
+[2021.09.10-19.26.46:893][852]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 128X128)
+[2021.09.10-19.26.46:893][852]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 512X64)
+[2021.09.10-19.26.46:893][852]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 256X128)
+[2021.09.10-19.26.46:893][852]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 512X64)
+[2021.09.10-19.26.46:893][852]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 1024X64)
+[2021.09.10-19.26.46:893][852]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X64)
+[2021.09.10-19.26.46:894][852]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X64)
+[2021.09.10-19.26.46:894][852]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 512X512)
+[2021.09.10-19.26.46:894][852]Lightmass on DESKTOP-2PG4869: 9.56 sec total, 175 ms importing, 18 ms setup, 3.75 sec photons, 5.56 sec processing, 0 ms extra exporting [171/171 mappings]. Threads: 1:01 min total, 9.30 sec processing.
+[2021.09.10-19.26.46:894][852]LogStaticLightingSystem: Ghasm_BuiltData storing lightmap data for 95 meshes in 23 LightmapResourceClusters (4.1 Meshes per cluster).
+[2021.09.10-19.26.46:930][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.09.10-19.26.46:960][852]LogStaticLightingSystem: Illumination: 17.2 sec (302 ms encoding lightmaps, 83 ms encoding shadowmaps)
+[2021.09.10-19.26.46:960][852]LogStaticLightingSystem: Lightmap texture memory:  4.7 MB (2.7 MB streaming, 2.0 MB non-streaming), 24 textures
+[2021.09.10-19.26.46:960][852]LogStaticLightingSystem: Shadowmap texture memory: 0.8 MB (0.4 MB streaming, 0.3 MB non-streaming), 11 textures
+[2021.09.10-19.26.47:144][852]DumpUnbuiltLightIteractions
+[2021.09.10-19.26.47:144][852]Lights with unbuilt interactions: 0
+[2021.09.10-19.26.47:144][852]
+[2021.09.10-19.26.47:144][852]Primitives with unbuilt interactions: 0
+[2021.09.10-19.26.47:222][852]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.09.10-19.26.47:259][853]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.09.10-19.26.47:260][853]MapCheck: New page: Ghasm - Sep 10, 2021, 9:26:47 AM
+[2021.09.10-19.26.47:260][853]MapCheck: Warning: Floor Floor is in the same location as Floor2 
+[2021.09.10-19.26.47:260][853]MapCheck: Warning: Trasero Trasero is in the same location as Trasero2 
+[2021.09.10-19.26.47:260][853]MapCheck: Warning: Trasero2 Trasero2 is in the same location as Trasero 
+[2021.09.10-19.26.47:260][853]MapCheck: Warning: FrenteLab2 FrenteLab2 is in the same location as TraseroLab2 
+[2021.09.10-19.26.47:260][853]MapCheck: Warning: TraseroLab2 TraseroLab2 is in the same location as FrenteLab2 
+[2021.09.10-19.26.47:260][853]MapCheck: Warning: Floor2 Floor2 is in the same location as Floor 
+[2021.09.10-19.26.47:261][853]MapCheck: Map check complete: 0 Error(s), 6 Warning(s), took 1.139ms to complete.
+[2021.09.10-19.27.04:681][896]LogSlate: Window 'Message Log' being destroyed
+[2021.09.10-19.27.04:684][896]LogSlate: Window 'Message Log' being destroyed
+[2021.09.10-19.27.26:685][519]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.10-19.27.43:287][504]LogEditorViewport: Clicking Background
