@@ -1714,3 +1714,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.10-19.27.04:684][896]LogSlate: Window 'Message Log' being destroyed
 [2021.09.10-19.27.26:685][519]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
 [2021.09.10-19.27.43:287][504]LogEditorViewport: Clicking Background
+[2021.09.10-19.30.42:432][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.09.10-19.30.44:457][661]LogSlate: Window 'Save Content' being destroyed
+[2021.09.10-19.30.44:479][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ghasm" FILE="../../../../Proyectos/EscenarioVid/Content/Ghasm.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.10-19.30.44:483][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.09.10-19.30.44:522][661]LogSavePackage: Moving '../../../../Proyectos/EscenarioVid/Saved/GhasmA23FD0E94710EE0DB14C13804581F33C.tmp' to '../../../../Proyectos/EscenarioVid/Content/Ghasm.umap'
+[2021.09.10-19.30.44:529][661]LogFileHelpers: Saving map 'Ghasm' took 0.050
+[2021.09.10-19.30.44:530][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ghasm_BuiltData" FILE="../../../../Proyectos/EscenarioVid/Content/Ghasm_BuiltData.uasset" SILENT=true
+[2021.09.10-19.30.44:679][661]LogSavePackage: Moving '../../../../Proyectos/EscenarioVid/Saved/Ghasm_BuiltDataCDAA7F4F474A388EAA0F1FAB8E28B4E0.tmp' to '../../../../Proyectos/EscenarioVid/Content/Ghasm_BuiltData.uasset'
+[2021.09.10-19.30.44:688][661]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.10-19.30.44:689][661]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Ghasm_BuiltData.Ghasm_BuiltData
+[2021.09.10-19.30.44:689][661]LogContentValidation: Display: Validating World /Game/Ghasm.Ghasm
